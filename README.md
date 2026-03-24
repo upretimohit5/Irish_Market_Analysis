@@ -33,3 +33,17 @@ This project provides a comprehensive analysis of the **Consumer Price Index (CP
 I am currently working on the Python implementation of this project which will include:
 * **Predictive Modeling:** Forecasting the 2027 CPI using Linear Regression and ARIMA.
 * **Automation:** Writing Python scripts to automate the data cleaning pipeline.
+
+## 🚀 Phase 2: Predictive Analysis (Python)
+In this phase, I transitioned from descriptive analysis to predictive modeling to forecast future inflation trends.
+
+### Key Tasks:
+* **Data Transformation:** Converted raw data into a Time-Series format using `Pandas`.
+* **Forecasting Model:** Implemented an **ARIMA(5,1,0)** model to predict CPI values for the next 12 months.
+* **Validation:** Verified model performance using **MAPE (Mean Absolute Percentage Error)**.
+
+### Results:
+* **Model Accuracy:** 99.63%
+* **Mean Absolute Error:** 0.37%
+* **Insight:** The forecast shows a stable but slightly upward trajectory for 2026-2027, helping businesses prepare for future cost-of-living adjustments.
+
