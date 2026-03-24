@@ -1,4 +1,3 @@
-# Irish_Market_Analysis
 # 🇮🇪 Irish Market Inflation Analysis (End-to-End)
 
 ## 📌 Project Overview
